@@ -29,13 +29,9 @@ const Home = () => {
         <div className='AboutText'>
           <h1 className='AboutTextHeading'>Brief <b>Introduction</b></h1>
           <p>
-            I am fluent in <b>DSA (using C++)</b> and know a bit of <b>Python.</b> I am working on a few 
-            projects in the <b>MERN</b> stack.<br />
-
-            I want to do work that challenges me as a developer & work that I can 
-            be proud of.<br /><br />
-            I plan to learn <b>App Development</b>, <b>Django</b>, <b>PHP</b> and<b> Typescript</b> in the near future. <br /><br />
-            I have solved <b>150+ LeetCode</b> and <b>120+ GFG</b> DSA questions and am continuously looking forward to improving my Programming and Development skills.  
+            I'm learning <b>DSA (using C++)</b> and working on some <b>MERN stack</b> projects. <br/><br/>
+            I plan to learn <b>Machine Learning</b> and <b>Generative AI</b> in the near future. <br/><br/>
+            I have solved <b>150+ LeetCode</b> and <b>120+ GFG</b> DSA questions and am continuously looking forward to improving my programming and development skills.<br/>
           </p>
         </div>
         <Tilt>
