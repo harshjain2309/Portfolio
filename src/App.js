@@ -1,15 +1,16 @@
 import { Route, Routes } from "react-router-dom";
 import { useEffect, useState } from "react";
-import Nav from './Components/Navbar';
-import Footer from "./Components/Footer";
-import Home from "./Components/Home";
-import About from "./Components/About";
-import Resume from "./Components/Resume";
-import Project from "./Components/Projects";
-import MoveToTop from "./Components/MoveToTop";
 import Lottie from  "lottie-react";
 import nightsky from "./LottieFiles/night-sky.json";
 import HashLoader from "react-spinners/HashLoader";
+
+import About from "./Components/About";
+import Footer from "./Components/Footer";
+import Home from "./Components/Home";
+import MoveToTop from "./Components/MoveToTop";
+import Nav from './Components/Navbar';
+import Project from "./Components/Projects";
+import Resume from "./Components/Resume";
 
 
 function App() {

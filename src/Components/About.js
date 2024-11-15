@@ -25,7 +25,7 @@ const About = () => {
               className="illustration" 
               animationData={Coder} 
               loop={true} 
-            />
+              />
           </Tilt>
         </div>
 
