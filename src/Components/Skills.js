@@ -40,8 +40,9 @@ const Skills = ({ skill }) => {
   };
 
   return (
-    <div title={skill} className='SkillBox'>
-      {icon[skill] || <span>{skill}</span>}
+    <div title={skill} className='SkillBox' style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', margin: '10px' }}>
+      {icon[skill] || <span style={{ fontSize: '2rem', color: 'yellow' }}>⚙️</span>}
+      <span style={{ marginTop: '5px', fontSize: '0.9rem', color: 'white' }}>{skill}</span>
     </div>
   );
 };
