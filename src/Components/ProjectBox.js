@@ -5,7 +5,7 @@ import {CgFileDocument} from "react-icons/cg";
 const ProjectBox = ({projectPhoto, projectName}) => {
   const desc = {
     YogiCare: "YogiCare is a wellness platform offering tailored yoga routines to address various health concerns.",
-    YogiCareGithub: "https://github.com/harshjain2309/YOGICARE",
+    YogiCareGithub: "https://github.com/harshjain2309/LangSQL-Assistant",
     YogiCareWebsite: "https://yogicare.netlify.app/",
 
     TempTrek: "A user-friendly weather application that provides real-time weather updates, forecasts, and detailed weather information for any location worldwide.",
