@@ -12,10 +12,10 @@ const Projects = () => {
       <h1 className='projectHeading'>My <b>Projects</b></h1>
       <div className='project'>
        
-        <ProjectBox projectPhoto={p1img} projectName="LangSQL-Assistant (Generative AI)" />
-        <ProjectBox projectPhoto={p2img} projectName="Multi-Disease Medical Image Classification using CNNs (Deep Learning)" />
-        <ProjectBox projectPhoto={p3img} projectName="Student Performance Indicator(Classical ML)" />
-        <ProjectBox projectPhoto={p4img} projectName="StockNewsBot" />
+        <ProjectBox projectPhoto={YogiCareImage} projectName="LangSQL-Assistant (Generative AI)" />
+        <ProjectBox projectPhoto={OIPimage} projectName="Multi-Disease Medical Image Classification using CNNs (Deep Learning)" />
+        <ProjectBox projectPhoto={temptrekImage} projectName="Student Performance Indicator(Classical ML)" />
+        <ProjectBox projectPhoto={nqueenImage} projectName="StockNewsBot" />
       </div>
 
     </div>
