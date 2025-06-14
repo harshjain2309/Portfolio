@@ -4,19 +4,19 @@ import { FaGithub } from "react-icons/fa";
 const ProjectBox = ({ projectPhoto, projectName }) => {
   const desc = {
     "LangSQL-Assistant (Generative AI)": {
-      description: "Built a GenAI-powered SQL agent using LangChain and GROQ LLaMA 3 (8B) to translate natural language into accurate SQL queries across both SQLite3 and MySQL databases.",
+      description: "A GenAI SQL agent using LangChain and GROQ LLaMA 3 (8B) to convert natural language into SQL for SQLite3/MySQL.",
       github: "https://github.com/harshjain2309/LangSQL-Assistant"
     },
     "Multi-Disease Medical Image Classification using CNNs (Deep Learning)": {
-      description: "Developed four CNN‑based classifiers for Pneumonia (Chest X‑ray), Breast Cancer (Ultrasound), Lung Cancer (CT scans), and Skin Cancer (Dermatoscopic images) using transfer learning (MobileNetV2, Xception), data augmentation, image preprocessing, and hyperparameter tuning to achieve greater that 90\% accuracy on two of HAM10000, IQ‑OTHNCCD, and Chest X‑ray Pneumonia datasets.",
+      description: "Built four CNN classifiers for Pneumonia, Breast, Lung, and Skin Cancer using transfer learning (MobileNetV2, Xception), data augmentation, and tuning—achieving >90% accuracy on HAM10000, IQ‑OTHNCCD, and Chest X‑ray datasets.",
       github: "https://github.com/harshjain2309/Medical-Disease-Prediction-Using-CNN"
     },
     "Student Performance Indicator(Classical ML)": {
-      description: "Built an end-to-end machine learning pipeline to predict student scores using socio-economic and demographic features by training Linear, Ridge, and Lasso Regression models with a modular scikit-learning pipeline for preprocessing, feature engineering, and evaluation.",
+      description: "Designed an end-to-end ML pipeline using Linear, Ridge, and Lasso Regression to predict student scores from socio-economic and demographic data with modular scikit-learn components for preprocessing, feature engineering, and evaluation.",
       github: "https://github.com/harshjain2309/Student-Performance-Indicator"
     },
     "StockNewsBot": {
-      description: "Engineered an end-to-end LLM-based chatbot that performs semantic financial research by parsing real-time news URLs and executing context-aware Q\&A via Groq’s ultra-fast Llama3-8b-8192 large language model.",
+      description: "Engineered an LLM-powered chatbot for semantic financial research using Groq’s LLaMA3-8B, enabling real-time news parsing and context-aware Q&A",
       github: "https://github.com/harshjain2309/StockNewsBot"
     }
   };
