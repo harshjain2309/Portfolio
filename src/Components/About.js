@@ -13,7 +13,7 @@ const About = () => {
           <p>
           Hi, my name is <b>Harsh Jain</b> and I am from Bhopal, Madhya Pradesh, India. <br/><br/>
           I’m an <b>aspiring Data Scientist</b> and <b>Software Developer</b> and a final year college student pursuing <b>BTech in ECE</b>. <br/><br/>
-           with hands-on experience building classical ML models, deep learning pipelines, and generative AI systems. I enjoy deploying these solutions as interactive web apps using Streamlit and Flask.
+          I have an hands-on experience building classical ML models, deep learning pipelines, and generative AI systems. I enjoy deploying these solutions as interactive web apps using Streamlit and Flask.
 
           </p>
         </div>
