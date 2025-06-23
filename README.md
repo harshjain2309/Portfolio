@@ -1,5 +1,5 @@
 # My Portfolio
-Explore my portfolio to see my academic background, technical skills, and projects that showcase my passion for software development.
+Explore my portfolio to see my academic background, technical skills, and projects that showcase my passion towards Data Science and Machine Learning.
 
 # Live Demo
 :https://my-portfolio-opal-nu-43.vercel.app/
