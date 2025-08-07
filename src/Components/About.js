@@ -12,7 +12,7 @@ const About = () => {
           <h1 className='AboutTextHeading' >Get to <b>know</b> me!</h1>
           <p>
           Hi, my name is <b>Harsh Jain</b> and I am from Bhopal, Madhya Pradesh, India. <br/><br/>
-          I’m an <b>Aspiring Data Scientist</b> and <b>Software Developer</b> and a final year college student pursuing <b>BTech in ECE</b>. <br/><br/>
+          I’m an <b>Aspiring Data Scientist</b> and <b>Software Engineer</b> and a final year college student pursuing <b>BTech in ECE</b>. <br/><br/>
           I have an hands-on experience building classical ML models, deep learning pipelines, and generative AI systems. I enjoy deploying these solutions as interactive web apps using Streamlit and Flask.
 
           </p>
