@@ -31,7 +31,7 @@ const Home = () => {
           <p>
             I'm learning <b>DSA (using C++)</b> and working on some <b>Agentic AI</b> projects. <br/><br/>
             I want to become <b>Machine Learning Engineer/Data Scientist/GenAI Engineer</b> in the near future. <br/><br/>
-            I have solved <b>250+ LeetCode</b> and <b>120+ GFG</b> DSA questions and am continuously looking forward to improving my programming and development skills.<br/>
+            I have solved <b>400+ LeetCode and 120+ GFG</b> DSA questions and am continuously looking forward to improving my programming and development skills.<br/>
           </p>
         </div>
         <Tilt>
